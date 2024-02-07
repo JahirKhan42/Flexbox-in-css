@@ -1,0 +1,19 @@
+1. JUSTIFY-CONTENT :- The justify-content property in CSS Flexbox is used to align flex items along the main axis of the flex container. It determines how extra space is distributed among flex items when they do not use all the available space on the main axis.
+Here are the possible values for the justify-content property : a) flex-start, b) flex-end , c) center , d) space-between , e) space-evenly , f) space-around.
+
+2. ALIGN-ITEMS :- The align-items property in CSS Flexbox is used to align flex items along the cross axis of the flex container. It determines how flex items are positioned vertically within the flex container when they do not use all the available space on the cross axis.
+Here are the possible values for the align-items property: a) stretch , b) flex-start , c) flex-end , d) center , f) baseline. 
+
+3. GAP :- The gap property in CSS Flexbox (and CSS Grid) is used to specify the gap between flex items or grid items. It sets the space between the elements along both the main axis and cross axis of the flex container or grid container.
+
+The gap property is shorthand for row-gap (for the gap between rows) and column-gap (for the gap between columns) in grid layouts, and it's shorthand for gap in flexbox layouts. It can accept one or two values.
+
+4. FLEX-DIRECTION :- The flex-direction property in CSS Flexbox is used to define the direction of the main axis in a flex container. It determines how flex items are placed along the main axis of the flex container and the direction in which they are laid out.
+
+Here are the possible values for the flex-direction property: a) row, b) row-reverse , c) column, d) column-reverse
+
+5. FLEX-WRAP :- The flex-wrap property in CSS Flexbox controls whether flex items are forced onto a single line or can wrap onto multiple lines within the flex container along the main axis. It defines how flex items are distributed when they exceed the size of the flex container.
+
+Here are the possible values for the flex-wrap property: a) nowrap , b) wrap ,  c) wrap-reverse
+
+
